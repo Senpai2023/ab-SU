@@ -1,0 +1,6 @@
+{
+  "name": "Ab!SU - University Emergency & Advisory SMS Notification System",
+  "description": "High-priority campus advisory and emergency SMS notification dispatch platform for university public information officers and student emergency alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
